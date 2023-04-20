@@ -35,3 +35,7 @@
 </div><br/>
 
 Sou um Dev apaixonado por conhecimento, amo aprender o que há de novo!
+
+</br>
+
+<p align ="center"> <img align ="center" src="https://profile-counter.glitch.me/LuysIbiapino/count.svg"/></p>
