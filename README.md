@@ -2,7 +2,6 @@
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/luys-fernando-ibiapino-372599240/)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/luys_ibiapino/?next=%2F)
-[![gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](ibiapinoluysfernando@gmail.com)
 
 
 ![LuysIbiapino GitHub stats](https://github-readme-stats.vercel.app/api?username=LuysIbiapino&show_icons=true&theme=dracula)
@@ -24,10 +23,9 @@
 
 <img aling ="center" alt="py" src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white"/> 
 <img aling ="center" alt="spring" src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=spring&logoColor=white"/>  
-<img aling ="center" alt="express" src="https://img.shields.io/badge/Express.js-404D59?style=for-the-badge"/>
 </div>
 
-### Bancos de Dados (NOSQL/SQL) 
+### Bancos de Dados 
 <div style = "display: inline_block">
 <img aling ="center" alt="mongodb" src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white"/>  
 <img aling ="center" alt="sqlite" src="https://img.shields.io/badge/SQLite-07405E?style=for-the-badge&logo=sqlite&logoColor=white"/>  
